@@ -1,69 +1,79 @@
-<!DOCTYPE html><html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Arbaz Khan - Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css"> <!-- Ensure styles.css exists in the same directory -->
 </head>
 <body>
+
     <header>
         <h1>Arbaz Khan</h1>
         <p>Accountant | Graduate | CA Aspirant</p>
-    </header><section id="about">
-    <h2>About Me</h2>
-    <p>Pursuing CA Intermediate and a graduate, with 3 years of experience in both assistant accounting and management roles at Unique Construction and Monginis. Versatile, blending casual and formal styles seamlessly. Passionate about contributing expertise to diverse professional environments.</p>
-</section>
+    </header>
 
-<section id="skills">
-    <h2>Skills</h2>
-    <ul>
-        <li>Tally</li>
-        <li>Income Tax</li>
-        <li>Microsoft Excel</li>
-        <li>Microsoft Outlook</li>
-        <li>Team Management</li>
-        <li>Account Management</li>
-        <li>Financial Analysis</li>
-        <li>Business Analysis</li>
-        <li>Accounting</li>
-    </ul>
-</section>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Pursuing CA Intermediate and a graduate, with 3 years of experience in both assistant accounting and management roles at Unique Construction and Monginis. Versatile, blending casual and formal styles seamlessly. Passionate about contributing expertise to diverse professional environments.</p>
+    </section>
 
-<section id="experience">
-    <h2>Work Experience</h2>
-    <div class="job">
-        <h3>Assistant Manager</h3>
-        <p>Monginis Foods Pvt. Ltd. (Feb 2022 - Jan 2023)</p>
-        <p>Oversaw daily store operations, inventory management, stock replenishment, and staff scheduling.</p>
-    </div>
-    <div class="job">
-        <h3>Assistant Accountant</h3>
-        <p>Unique Construction (Jan 2020 - Nov 2020)</p>
-        <p>Managed accounts payable and receivable, ensuring timely processing of invoices and payments.</p>
-    </div>
-</section>
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Tally</li>
+            <li>Income Tax</li>
+            <li>Microsoft Excel</li>
+            <li>Microsoft Outlook</li>
+            <li>Team Management</li>
+            <li>Account Management</li>
+            <li>Financial Analysis</li>
+            <li>Business Analysis</li>
+            <li>Accounting</li>
+        </ul>
+    </section>
 
-<section id="education">
-    <h2>Education</h2>
-    <div class="edu">
-        <h3>The Institute of Chartered Accountants of India</h3>
-        <p>CA Intermediate, Accounting and Finance</p>
-    </div>
-    <div class="edu">
-        <h3>University of Mumbai</h3>
-        <p>Bachelor of Commerce - BCom, Business/Commerce, General (2021)</p>
-    </div>
-</section>
+    <section id="experience">
+        <h2>Work Experience</h2>
 
-<section id="contact">
-    <h2>Contact Me</h2>
-    <p>Email: arbazkhan6119@gmail.com</p>
-    <p>Phone: 9930800786</p>
-</section>
+        <div class="job">
+            <h3>Assistant Manager</h3>
+            <p><strong>Company:</strong> Monginis Foods Pvt. Ltd.</p>
+            <p><strong>Duration:</strong> Feb 2022 - Jan 2023</p>
+            <p>Oversaw daily store operations, inventory management, stock replenishment, and staff scheduling.</p>
+        </div>
 
-<footer>
-    <p>&copy; 2025 Arbaz Khan. All Rights Reserved.</p>
-</footer>
+        <div class="job">
+            <h3>Assistant Accountant</h3>
+            <p><strong>Company:</strong> Unique Construction</p>
+            <p><strong>Duration:</strong> Jan 2020 - Nov 2020</p>
+            <p>Managed accounts payable and receivable, ensuring timely processing of invoices and payments.</p>
+        </div>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+
+        <div class="edu">
+            <h3>The Institute of Chartered Accountants of India</h3>
+            <p>CA Intermediate, Accounting and Finance</p>
+        </div>
+
+        <div class="edu">
+            <h3>University of Mumbai</h3>
+            <p>Bachelor of Commerce - BCom, Business/Commerce, General (2021)</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p><strong>Email:</strong> <a href="mailto:arbazkhan6119@gmail.com">arbazkhan6119@gmail.com</a></p>
+        <p><strong>Phone:</strong> <a href="tel:+919930800786">9930800786</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Arbaz Khan. All Rights Reserved.</p>
+    </footer>
 
 </body>
 </html>
